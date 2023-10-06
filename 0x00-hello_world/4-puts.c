@@ -1,13 +1,12 @@
-#include<stdio.h>
-/* puts function */
+#include <stdio.h>
 
 /**
- * Main: is entry point
+ * main - Entry point
  *
- * Description: C code that prints with puts
+ * Description: A C code that prints with puts function
  *
- * Return: value is 0 which means it is successful 
- */
+ * Return: Always 0 (Success)
+*/
 
 int main(void)
 {
