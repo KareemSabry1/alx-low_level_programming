@@ -4,9 +4,9 @@
 
 
 /**
-* main - prints random number and decides if it's positive, negattive, zero.
+* main - Prints a random number decides whether it is positive,negative,orzero.
 *
-* Return: Always 0 (successful)
+* Return: Always 0.
 */
 int main(void)
 {
@@ -22,3 +22,4 @@ int main(void)
 		printf("%d is zero\n", n);
 	return (0);
 }
+
